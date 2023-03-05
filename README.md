@@ -11,3 +11,9 @@ To get started with this project, you will need to install the following depende
 #### numpy
 #### scipy
 
+# output
+
+The output of the program is an image of the stock chart with the detected chart patterns labeled.
+
+#### 1.TestData output.
+<div align=center><img width="350" height="350" src="https://github.com/charmiiii02/Stock_Market_chart_Analysis/blob/main/TestDataplot.png"/></div>
