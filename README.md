@@ -17,3 +17,16 @@ The output of the program is an image of the stock chart with the detected chart
 
 #### 1.TestData output.
 <div align=center><img width="350" height="350" src="https://github.com/charmiiii02/Stock_Market_chart_Analysis/blob/main/TestDataplot.png"/></div>
+
+#### 3. SampleData_1 output.
+<div align=center><img width="350" height="350" src="https://github.com/charmiiii02/Stock_Market_chart_Analysis/blob/main/SampleDataplot.png"/></div>
+#### 2.SampleData_2 output.
+<div align=center><img width="350" height="350" src="https://github.com/charmiiii02/Stock_Market_chart_Analysis/blob/main/SampleData2plot.png"/></div>
+
+
+#### 3.SampleData_3 output.
+<div align=center><img width="350" height="350" src="https://github.com/charmiiii02/Stock_Market_chart_Analysis/blob/main/SampleData3plot.png"/></div>
+
+
+#### 4.SampleData_4 output.
+<div align=center><img width="350" height="350" src="https://github.com/charmiiii02/Stock_Market_chart_Analysis/blob/main/SampleData4plot.png"/></div>
